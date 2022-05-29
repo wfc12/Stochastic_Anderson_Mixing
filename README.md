@@ -3,7 +3,7 @@ Implementation of the stochastic Anderson mixing method for nonconvex stochastic
 
 ## Usage
 
-PyTorch1.4.0 (except that using PyTorch1.8.0 for LSTM on Penn TreeBank)
+PyTorch1.4.0 (except that using PyTorch1.8.0 for LSTM on Penn Treebank)
 
 1. Put optim/adasam.py, optim/adasamvr.py, and optim/padasam.py to the optim directory of PyTorch.
 
