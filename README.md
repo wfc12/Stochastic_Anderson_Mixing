@@ -7,7 +7,7 @@ PyTorch1.4.0 (except that using PyTorch1.8.0 for LSTM on Penn TreeBank)
 
 1. Put optim/adasam.py, optim/adasamvr.py, and optim/padasam.py to the optim directory of PyTorch.
 
-2. Modify __init__.py by adding
+2. Modify \_\_init\_\_.py by adding
 
 ```
 from .adasam import AdaSAM
